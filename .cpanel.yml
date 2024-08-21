@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/weekbieb/shubbanbd_new/
+    - export DEPLOYPATH=/home/weekbieb/shubbanbd_dev/
     - /bin/cp * $DEPLOYPATH
     
