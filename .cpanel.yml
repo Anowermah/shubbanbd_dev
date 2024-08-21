@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/weekbieb/shubbanbd_new/
+    - /bin/cp * $DEPLOYPATH
+    
